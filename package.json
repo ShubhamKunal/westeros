@@ -1,0 +1,11 @@
+{
+  "name": "westeros",
+  "version": "1.0.0",
+  "description": "The Best Travel agency in Westeros",
+  "main": "westeros.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Kunal",
+  "license": "ISC"
+}
